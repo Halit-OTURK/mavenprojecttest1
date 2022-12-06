@@ -1,12 +1,6 @@
 public class FeatureE {
     public static void main(String[] args) {
-<<<<<<< HEAD
-        
+// going ok
+        //enough
     }
-
-    // didn't merge yet feature-e
-=======
-
-    }
->>>>>>> b412aa3 (FeatureE and main created)
 }
